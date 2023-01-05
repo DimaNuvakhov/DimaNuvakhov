@@ -1,6 +1,10 @@
 ### Hello there! I'am Dmitrii Nuvakhov 👋 
 ____
+## :hammer_and_wrench: 
+![java](https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white) ![spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white) ![postgres](https://img.shields.io/badge/postgres-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white) ![docker](https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) ![git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black) 
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DimaNuvakhov&show_icons=true&include_all_commits=true&custom_title=Github%20Stats&count_private=true&line_height=20&include_all_commits=true&bg_color=00000000&text_color=777)
+
 
 
 <!--
