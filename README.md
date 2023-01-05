@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there! I'am Dmitrii Nuvakhov 👋 
+____
+![Github stats](https://github-readme-stats.vercel.app/api?username=DimaNuvakhov&show_icons=true&include_all_commits=true&custom_title=Github%20Stats&count_private=true&line_height=20&include_all_commits=true&bg_color=00000000&text_color=777)
+
 
 <!--
 **DimaNuvakhov/DimaNuvakhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
